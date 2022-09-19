@@ -16,7 +16,7 @@
 
 variable "project_id" {
   description = "The ID of the project where this VPC will be created"
-  default     = test
+  default     = "p-w3ixydffszwt-0"
 }
 
 variable "network_name" {
